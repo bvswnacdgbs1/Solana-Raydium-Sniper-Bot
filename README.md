@@ -65,7 +65,7 @@ To run the script you need to:
 
 ## AUTO SELL
 By default, auto sell is enabled. If you want to disable it, you need to:
-1. Change variable `AUTO_SELL` to `false`
+1. Change variable `AUTO_SELL` to `false` 
 2. Update `MAX_SELL_RETRIES` to set the maximum number of retries for selling token
 3. Update `AUTO_SELL_DELAY` to the number of milliseconds you want to wait before selling the token (this will sell the token after the specified delay. (+- RPC node speed)).
 
